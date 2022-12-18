@@ -6,4 +6,5 @@ third change
 
 Ich möchte gelbe Farbe.
 
-Feature Holz.
+
+Feature Holz und Metall
