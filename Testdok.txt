@@ -13,3 +13,5 @@ lokal hinzugefügt: dieser Text
 
 user 2 text
 text user 1
+
+user2: lila
