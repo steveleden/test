@@ -8,3 +8,5 @@ Ich möchte gelbe Farbe.
 
 
 Feature Holz und Metall und Plastik
+
+lokal hinzugefügt: dieser Text
